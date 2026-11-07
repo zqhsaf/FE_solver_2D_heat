@@ -1,0 +1,13 @@
+# MATLAB 临时文件
+*.asv
+*.m~
+*.autosave
+*.mat.bak
+
+# 编译产物
+*.mexw64
+*.mexw32
+
+# 系统文件
+Thumbs.db
+.DS_Store
